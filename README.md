@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG-система с графовой базой данных
 
 Система для извлечения информации из документов с использованием Retrieval-Augmented Generation (RAG) и графовой базы данных Neo4j.
@@ -134,3 +135,7 @@ python main.py --recreate-index
 1. Проверьте, что Ollama запущен: `ollama ps`
 2. Убедитесь, что модель загружена: `ollama list`
 3. При необходимости, загрузите модель заново: `ollama pull qwen2.5vl:7b` 
+=======
+# Kirovskiy
+RAG-System
+>>>>>>> 530b949e0f6376f13b2b4dc54e7f867a44b0e965
