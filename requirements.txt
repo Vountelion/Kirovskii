@@ -1,0 +1,19 @@
+accelerate
+torch
+python-dotenv
+langsmith
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-core
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+neo4j
+gliner
+rank_bm25
+PyYAML
+python-telegram-bot==20.7
+pypdf
+python-docx
+unstructured
+-e git+https://github.com/urchade/GLiNER.git#egg=gliner
